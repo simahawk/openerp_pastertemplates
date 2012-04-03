@@ -1,3 +1,16 @@
+==================================
+**MOVED TO 'openerp_bootstrap'**
+==================================
+
+*In order to give it a better name and to drop any dependency reference wrongly included into the name, 
+this package has been moved to 'openerp_bootstrap'.*
+
+Find it on pypy_ and github_.
+
+.. _pypi: http://pypi.python.org/pypi/openerp_bootstrap 
+.. _github: https://github.com/simahawk/openerp_bootstrap
+
+
 Introduction
 ============
 
